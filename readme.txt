@@ -1,4 +1,6 @@
-RESTFUL ROUTES
+# YelpCamp gallary-blog app 
+
+ROUTES
 
 NAME        URL             VERB    DESC.
 ===========================================================================
